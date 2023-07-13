@@ -28,7 +28,7 @@ class CustomOutlineBtn extends StatelessWidget {
         width: width,
         decoration: BoxDecoration(
             color: color2,
-            borderRadius: BorderRadius.all(Radius.circular(12)),
+            borderRadius: const BorderRadius.all(Radius.circular(12)),
             border: Border.all(
               width: 1,
               color: color,
